@@ -9,8 +9,8 @@
     "id": "a90.doors",
     "name": "A-90",
     "version": "v1.0.0",
-    "developer": "OpenAI",
-    "description": "Old DOORS-style A-90 encounter for Geometry Dash.",
+    "developer": "Pan5430",
+    "description": "DOORS A-90 encounter for Geometry Dash.",
     "tags": [
         "gameplay",
         "offline",
@@ -18,7 +18,7 @@
     ],
     "resources": {
         "sprites": [
-            "resources/*.webp"
+            "resources/*.png"
         ],
         "files": [
             "resources/*.mp3"
